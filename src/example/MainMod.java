@@ -6,5 +6,6 @@ public class MainMod extends Mod {
     @Override
     public void init() {
         new PickHB_XEM();
+        new Anti_Fog();
     }
 }

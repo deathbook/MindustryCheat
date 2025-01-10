@@ -5,7 +5,6 @@ import arc.util.Log;
 import mindustry.Vars;
 import mindustry.gen.Call;
 import mindustry.game.EventType.*;
-import mindustry.mod.Mod;
 
 public class PickHB_XEM {
 
